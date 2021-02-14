@@ -1,1 +1,2 @@
-# eafr
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
